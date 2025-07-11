@@ -1,0 +1,27 @@
+.jumbotron {
+  margin-top: 0.3rem;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background: linear-gradient(to left, rgb(10, 36, 150), rgb(40, 123, 205));
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white !important;
+}
+
+#content {
+  text-align: center;
+}
+
+#apple {
+  width: 10em;
+  margin: 10px 0 20px;
+}
+
+#footer {
+  box-sizing: border-box;
+  margin-top: 20px;
+  text-align: center;
+  background-color: #eee;
+  padding: 40px;
+}
